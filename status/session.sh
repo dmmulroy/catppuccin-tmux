@@ -1,6 +1,6 @@
 show_session() {
   local index=$1
-  local icon=$(get_tmux_option "@catppuccin_session_icon" "")
+  local icon=$(get_tmux_option "@catppuccin_session_icon" "session")
   local color=$(get_tmux_option "@catppuccin_session_color" "#{?client_prefix,$thm_red,$thm_green}")
   local text=$(get_tmux_option "@catppuccin_session_text" "#S")
 
