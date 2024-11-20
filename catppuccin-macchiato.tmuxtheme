@@ -1,17 +1,17 @@
 # NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
 # WARNING: hex colors can't contain capital letters
 
-# --> Catppuccin (Macchiato)
-thm_bg="#24273a"
-thm_fg="#cad3f5"
-thm_cyan="#91d7e3"
-thm_black="#1e2030"
-thm_gray="#363a4f"
-thm_magenta="#c6a0f6"
-thm_pink="#f5bde6"
-thm_red="#ed8796"
-thm_green="#a6da95"
-thm_yellow="#eed49f"
-thm_blue="#8aadf4"
-thm_orange="#f5a97f"
-thm_black4="#5b6078"
+# --> Catppuccin (Mocha) JK its rose pine moon
+thm_bg="#232136"         # Base
+thm_fg="#e0def4"         # Text
+thm_cyan="#9ccfd8"       # Foam
+thm_black="#2a273f"      # Surface
+thm_gray="#393552"       # Overlay
+thm_magenta="#c4a7e7"    # Iris
+thm_pink="#eb6f92"       # Love
+thm_red="#ea9a97"        # Rose
+thm_green="#3e8fb0"      # Pine
+thm_yellow="#f6c177"     # Gold
+thm_blue="#908caa"       # Subtle
+thm_orange="#f6c177"     # Gold (same hex as Gold)
+thm_black4="#2a283e"     # Highlight Low
