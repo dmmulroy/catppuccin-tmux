@@ -336,7 +336,7 @@ main() {
   local pane_status_enable=$(get_tmux_option "@catppuccin_pane_status_enabled" "no") # yes
   local pane_border_status=$(get_tmux_option "@catppuccin_pane_border_status" "off") # bottom
   local pane_border_style=$(get_tmux_option "@catppuccin_pane_border_style" "fg=${thm_gray}")
-  local pane_active_border_style=$(get_tmux_option "@catppuccin_pane_active_border_style" "fg=${thm_orange}")
+  local pane_active_border_style=$(get_tmux_option "@catppuccin_pane_active_border_style" "fg=${thm_magenta}")
   local pane_left_separator=$(get_tmux_option "@catppuccin_pane_left_separator" "█")
   local pane_middle_separator=$(get_tmux_option "@catppuccin_pane_middle_separator" "█")
   local pane_right_separator=$(get_tmux_option "@catppuccin_pane_right_separator" "█")
